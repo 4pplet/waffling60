@@ -1,0 +1,3 @@
+Add BOM to silkscreen
+Add ICSP pins and pinout on silk
+Add through hole connector pinout to bottom silk also
