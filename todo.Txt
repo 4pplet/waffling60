@@ -1,3 +1,19 @@
 Add BOM to silkscreen
 Add ICSP pins and pinout on silk
 Add through hole connector pinout to bottom silk also
+
+
+
+PLATE:
+Make FR4-plate to go with the PCB
+
+make holes for screws bigger
+make sure stabilizer cutout is correctly rotated
+
+Hole for switch under space
+
+relief cut:
+Jo då är det typ bara att göra OTD style space och sen en relief cut vid caps lock
+Om något
+mangeSD: Och självklart runt mods som du kan hitta på en vanlig plate generator
+
