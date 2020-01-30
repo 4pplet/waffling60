@@ -17,3 +17,11 @@ Jo då är det typ bara att göra OTD style space och sen en relief cut vid caps lo
 Om något
 mangeSD: Och självklart runt mods som du kan hitta på en vanlig plate generator
 
+
+
+
+
+
+Plate footprint for iso enter looks like shit
+look into adding other rotations for shift stabilizers for plate
+DOUBLE CHECK POSITION OF ISO KEY BESIDE ANSI ENTER
