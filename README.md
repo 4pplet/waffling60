@@ -14,14 +14,17 @@ Prototyping phase.
 - Split space
 - ISO and ANSI
 
+## Layout support: 
+![alt text](./readme-images/layout_support.jpg "Layout support")
+
 ## Altium view of PCB - Solder
 ![alt text](./readme-images/waffling60-MX_Rev_A1.jpg "PCB View - Rev A")
 
 ## Altium view of - Hotswap
 ![alt text](./readme-images/waffling60-MXHS_Rev_A1.jpg "PCB View - Rev A")
 
-## Layout support: 
-![alt text](./readme-images/layout_support.jpg "Layout support")
+## Altium view of - Plate
+![alt text](./readme-images/waffling60_plate_Rev_A1.jpg "PCB View - Rev A")
 
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
