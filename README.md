@@ -1,12 +1,11 @@
-# SteezyHS
+# waffling60
 
-SteezyRGB is a multi layout hotswap 60% PCB with support for common ANSI and ISO layouts and split space.
+waffling60 is a multi layout 60% PCB with support for common ANSI and ISO layouts and split space. One version features hot swaps, one is a solder PCB. Hot swap board uses both north, south and 90-degree rotated switches, which might cause some compatibility issues with some keycaps.
 
 ## Status:
-Not really started
+Prototyping phase.
 
 ## Some features:
-- Hotswaps
 - QMK
 - USB-C
 - atmega32u2 in QFN and QFP
@@ -15,8 +14,11 @@ Not really started
 - Split space
 - ISO and ANSI
 
-## Altium view of PCB
-![alt text](./readme-images/SteezyHS_Rev_A1.jpg "PCB View - Rev A")
+## Altium view of PCB - Solder
+![alt text](./readme-images/waffling60-MX_Rev_A1.jpg "PCB View - Rev A")
+
+## Altium view of - Hotswap
+![alt text](./readme-images/waffling60-MXHS_Rev_A1.jpg "PCB View - Rev A")
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
