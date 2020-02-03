@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=SteezyHS.OutJob
+Name=waffling60-MXHS.OutJob
 Description=
-TargetOutputMedium=Plate Gerbers drill
+TargetOutputMedium=Prints
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -110,7 +110,7 @@ OutputName5=PCB 3D Print
 OutputCategory5=Documentation
 OutputDocumentPath5=waffling60-MXHS.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -194,7 +194,7 @@ OutputName9=Plate Gerber Files
 OutputCategory9=Fabrication
 OutputDocumentPath9=waffling60_plate.PcbDoc
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -209,7 +209,7 @@ OutputName10=Plate of NC Drill Files
 OutputCategory10=Fabrication
 OutputDocumentPath10=waffling60_plate.PcbDoc
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
@@ -219,11 +219,27 @@ OutputEnabled10_OutputMedium6=2
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType11=PCB 3D Print
+OutputName11=Plate 3D Print
+OutputCategory11=Documentation
+OutputDocumentPath11=waffling60_plate.PcbDoc
+OutputVariantName11=
+OutputEnabled11=1
+OutputEnabled11_OutputMedium1=0
+OutputEnabled11_OutputMedium2=0
+OutputEnabled11_OutputMedium3=0
+OutputEnabled11_OutputMedium4=2
+OutputEnabled11_OutputMedium5=0
+OutputEnabled11_OutputMedium6=0
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.04|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=114149649|ViewY=42698604|LookAtX=398356480|LookAtY=140413904|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.62768787839199E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\33307556\2CFG3D.BOTSOLDERMASKCOLOR\33307556\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\Job1.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for alps-cherry
 OutputPathMedia2==CurrentDate
 OutputPathMediaValue2==CurrentDate
 OutputPathOutputer2=[Output Type]
@@ -250,7 +266,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-22\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
 OutputPathMediaValue3==CurrentDate
 OutputPathOutputer3=[Output Type]
@@ -261,9 +277,9 @@ OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-12-21\Job1.PDF
+OutputFilePath4=C:\Users\Stefan\Documents\git\waffling60\waffling60-MXHS\Project Outputs for alps-cherry\2020-01-31\Prints.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for alps-cherry
 OutputPathMedia4==CurrentDate
 OutputPathMediaValue4==CurrentDate
 OutputPathOutputer4=[Output Type]
@@ -271,11 +287,11 @@ OutputPathOutputerPrefix4=
 OutputPathOutputerValue4=
 OutputFileName4=Prints.PDF
 OutputFileNameMulti4=
-UseOutputNameForMulti4=0
+UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=0
 PromptOverwrite4=1
-PublishMethod4=0
+PublishMethod4=1
 ZoomLevel4=50
 FitSCHPrintSizeToDoc4=1
 FitPCBPrintSizeToDoc4=1
@@ -290,7 +306,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-23\SteezyHS_Schematic.PDF
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Free Documents
+OutputBasePath5=Project Outputs for alps-cherry
 OutputPathMedia5==CurrentDate
 OutputPathMediaValue5==CurrentDate
 OutputPathOutputer5=[Output Type]
@@ -317,7 +333,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 OutputFilePath6=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-27\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for Free Documents
+OutputBasePath6=Project Outputs for alps-cherry
 OutputPathMedia6==CurrentDate
 OutputPathMediaValue6==CurrentDate
 OutputPathOutputer6=[Output Custom]
@@ -342,7 +358,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-12-21\Job1.PDF
+RelativeOutputPath4=C:\Users\Stefan\Documents\git\waffling60\waffling60-MXHS\Project Outputs for alps-cherry\2020-01-31\Prints.PDF
 OpenOutputs4=0
 RelativeOutputPath5=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-23\SteezyHS_Schematic.PDF
 OpenOutputs5=0
