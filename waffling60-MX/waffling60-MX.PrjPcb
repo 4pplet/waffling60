@@ -156,10 +156,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MX.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
