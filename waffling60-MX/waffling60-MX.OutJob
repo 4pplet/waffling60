@@ -248,7 +248,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-23\SteezyHS_Schematic.PDF
+OutputFilePath5=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-02-14\Schematic.PDF
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for alps-cherry
 OutputPathMedia5==CurrentDate
@@ -256,7 +256,7 @@ OutputPathMediaValue5==CurrentDate
 OutputPathOutputer5=[Output Type]
 OutputPathOutputerPrefix5=
 OutputPathOutputerValue5=
-OutputFileName5=SteezyHS_Schematic.PDF
+OutputFileName5=Schematic.PDF
 OutputFileNameMulti5=
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
@@ -291,6 +291,6 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-12-21\Job1.PDF
 OpenOutputs4=0
-RelativeOutputPath5=C:\Users\Stefan\Documents\git\SteezyHS\Project Outputs for alps-cherry\2020-01-23\SteezyHS_Schematic.PDF
+RelativeOutputPath5=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-02-14\Schematic.PDF
 OpenOutputs5=0
 
