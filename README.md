@@ -13,6 +13,7 @@ Prototyping phase.
 - Cherry PCB-stab support
 - Split space
 - ISO and ANSI
+- On solder version: Switch rotation is only with LED facing south.
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
@@ -28,3 +29,4 @@ Prototyping phase.
 
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
+- Rev A2: Rotate Fn-switch (split RShift) on solder version. Rotate LShift stabilizer on both versions. To rotate left shift stabilizer on hot-swap pcb, adjacent sockets is also rotated.
