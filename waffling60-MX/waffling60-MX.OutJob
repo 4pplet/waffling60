@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=waffling60-MX.OutJob
 Description=
-TargetOutputMedium=Schematic
+TargetOutputMedium=Gerbers drill and pick
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -40,7 +40,7 @@ OutputName1=Gerber Files
 OutputCategory1=Fabrication
 OutputDocumentPath1=waffling60-MX.PcbDoc
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
@@ -54,7 +54,7 @@ OutputName2=NC Drill Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=waffling60-MX.PcbDoc
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=2
@@ -90,7 +90,7 @@ OutputName4=Generates pick and place files
 OutputCategory4=Assembly
 OutputDocumentPath4=waffling60-MX.PcbDoc
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
@@ -119,7 +119,7 @@ OutputName6=Bill of Materials XLS
 OutputCategory6=Report
 OutputDocumentPath6=waffling60-MX.PcbDoc
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=4
@@ -134,7 +134,7 @@ Configuration6_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration6_Name3=General
 Configuration6_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration6_Name4=GroupOrder
-Configuration6_Item4=LCSCPN=True
+Configuration6_Item4=Value=True|MFGPN=True|LCSCPN=True
 Configuration6_Name5=SortOrder
 Configuration6_Item5=Quantity=Down
 Configuration6_Name6=VisibleOrder
@@ -144,7 +144,7 @@ OutputName7=Bill of Materials CSV
 OutputCategory7=Report
 OutputDocumentPath7=waffling60-MX.PcbDoc
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=5
@@ -159,7 +159,7 @@ Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration7_Name3=General
 Configuration7_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration7_Name4=GroupOrder
-Configuration7_Item4=LCSCPN=True
+Configuration7_Item4=Value=True|MFGPN=True|LCSCPN=True
 Configuration7_Name5=SortOrder
 Configuration7_Item5=Quantity=Down
 Configuration7_Name6=VisibleOrder
@@ -169,7 +169,7 @@ OutputName8=Schematic Prints
 OutputCategory8=Documentation
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -208,7 +208,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-02-04\
+OutputFilePath3=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-03-17\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
@@ -279,7 +279,7 @@ PDFVersion5=Default
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\Job1.PDF
 OpenOutputs2=0
-RelativeOutputPath3=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-02-04\
+RelativeOutputPath3=C:\Users\Stefan\Documents\git\waffling60\waffling60-MX\Project Outputs for alps-cherry\2020-03-17\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
