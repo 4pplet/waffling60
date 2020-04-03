@@ -24,6 +24,9 @@ Prototyping phase.
 ## Altium view of - Hotswap
 ![alt text](./readme-images/waffling60-MXHS_Rev_A2.jpg "PCB View - Rev A")
 
+## Altium view of - Plate
+![alt text](./readme-images/waffling60-Plate_A2.jpg "PCB View - Rev A")
+
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
 - Rev A2: Rotate Fn-switch (split RShift) on solder version. Rotate LShift stabilizer on both versions. To rotate left shift stabilizer on hot-swap pcb, adjacent sockets is also rotated.
