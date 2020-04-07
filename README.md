@@ -1,6 +1,6 @@
 # waffling60
 
-waffling60 is a multi layout 60% PCB with support for common ANSI and ISO layouts and split space. One version features hot swaps, one is a solder PCB. Hot swap board uses both north, south and 90-degree rotated switches, which might cause some compatibility issues with some keycaps.
+waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts and split space. One version features hot swaps, one is a solder PCB. Hot swap board uses both north, south and 90-degree rotated switches, which might cause some compatibility issues with some keycaps.
 
 ## Status:
 Prototyping phase.
