@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=waffling60-MXHS.OutJob
 Description=
-TargetOutputMedium=Gerber Plate
+TargetOutputMedium=Prints
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -116,7 +116,7 @@ OutputName5=PCB 3D Print
 OutputCategory5=Documentation
 OutputDocumentPath5=waffling60-MXHS.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -204,7 +204,7 @@ OutputName9=Plate 3D Print
 OutputCategory9=Documentation
 OutputDocumentPath9=waffling60_plate.PcbDoc
 OutputVariantName9=
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -215,13 +215,13 @@ OutputEnabled9_OutputMedium7=0
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.02|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=114149649|ViewY=42698604|LookAtX=398356480|LookAtY=140413904|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.62768787839199E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20NB%20Black%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\311840160\2CFG3D.BOARDCORECOLOR\313491161\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\30\2CFG3D.BOTSOLDERMASKCOLOR\30\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.820000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
+Configuration9_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=114960609|ViewY=53113805|LookAtX=398227808|LookAtY=140315808|LookAtZ=608552.6875|QuatX=0|QuatY=0.999999940395355|QuatZ=0|QuatW=4.37113882867379E-8|Zoom=1.39700025838881E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20NB%20Black%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\311840160\2CFG3D.BOARDCORECOLOR\313491161\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\30\2CFG3D.BOTSOLDERMASKCOLOR\30\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.820000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 OutputType10=Gerber
 OutputName10=Gerber Files Plate
 OutputCategory10=Fabrication
 OutputDocumentPath10=waffling60_plate.PcbDoc
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=6
@@ -231,13 +231,13 @@ OutputEnabled10_OutputMedium6=0
 OutputEnabled10_OutputMedium7=1
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973834~1,16777217~1,16842751~1,16973835~1,16908304~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType11=NC Drill
 OutputName11=NC Drill Files Plate
 OutputCategory11=Fabrication
 OutputDocumentPath11=waffling60_plate.PcbDoc
 OutputVariantName11=
-OutputEnabled11=1
+OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=7
