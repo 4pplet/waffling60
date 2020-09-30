@@ -173,6 +173,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MXHS.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -777,46 +781,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=MBAExportPARASOLID
-OutputName12=Export PARASOLID
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=MBAExportSTEP
-OutputName13=Export STEP
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
