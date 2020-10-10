@@ -19,14 +19,13 @@ Prototyping phase.
 ![alt text](./readme-images/layout_support.jpg "Layout support")
 
 ## Altium view of PCB - Solder
-![alt text](./readme-images/waffling60-MX_Rev_A2.jpg "PCB View - Rev A")
+![alt text](./readme-images/waffling60-MX_Rev_B1.jpg "PCB View - Rev A")
 
 ## Altium view of - Hotswap
-![alt text](./readme-images/waffling60-MXHS_Rev_A2.jpg "PCB View - Rev A")
+![alt text](./readme-images/waffling60-MXHS_Rev_B1.jpg "PCB View - Rev A")
 
-## Altium view of - Plate
-![alt text](./readme-images/waffling60-Plate_A3.jpg "PCB View - Rev A")
 
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
 - Rev A2: Rotate Fn-switch (split RShift) on solder version. Rotate LShift stabilizer on both versions. To rotate left shift stabilizer on hot-swap pcb, adjacent sockets is also rotated.
+- Rev B1: Changed matrix and diode under capslock for cleaner routing and easier software implementation in QMK for LED
