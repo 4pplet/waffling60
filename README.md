@@ -3,10 +3,10 @@
 waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts and split space. One version features hot swaps, one is a solder PCB. Hot swap board uses both north, south and 90-degree rotated switches, which might cause some compatibility issues with some keycaps.
 
 ## Status:
-First revision tested and done. Implemented in QMK and VIA main branches. Revision B is tested and QMK implemented, VIA-implementation is awaiting merge.
+Tested and implemented in QMK and VIA main branches.
 
 ## Some features:
-- QMK
+- QMK & VIA
 - USB-C
 - atmega32u2 in QFN and QFP
 - RGB-led close to capslock
@@ -14,6 +14,7 @@ First revision tested and done. Implemented in QMK and VIA main branches. Revisi
 - Split space
 - ISO and ANSI
 - On solder version: Switch rotation is only with LED facing south.
+- On hot swap version: Switch rotation is North, south and 90 degree, make sure to check so this will not cause keycap issues for you.
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
