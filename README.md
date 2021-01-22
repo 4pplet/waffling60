@@ -14,7 +14,7 @@ Tested and implemented in QMK and VIA main branches.
 - Split space
 - ISO and ANSI
 - On solder version: Switch rotation is only with LED facing south.
-**- On hot swap version: Switch rotation is North, south and 90 degree, make sure to check so this will not cause keycap issues for you.**
+- **On hot swap version: Switch rotation is North, south and 90 degree, make sure to check so this will not cause keycap issues for you.**
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
