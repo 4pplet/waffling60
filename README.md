@@ -25,6 +25,8 @@ Tested and implemented in QMK and VIA main branches.
 ## Altium view of - Hotswap
 ![alt text](./readme-images/waffling60-MXHS_Rev_B2.jpg "PCB View - Rev A")
 
+## Altium view of - SE
+![alt text](./readme-images/waffling60-SE_Rev_B2.jpg "PCB View - Rev A")
 
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
