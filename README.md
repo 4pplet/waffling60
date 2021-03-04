@@ -13,7 +13,7 @@ Tested and implemented in QMK and VIA main branches.
 - Cherry PCB-stab support
 - Split space
 - ISO and ANSI
-- USB placement on solder and hotswap-versions is classic GH60, same as GH60, plain60, voyager60 etc.
+- USB horizontal placement on solder and hotswap-versions is classic GH60, same as GH60, plain60, voyager60 etc.
 - USB placement on SE is adapted for Polaris.
 - On solder version: Switch rotation is only with LED facing south.
 - **On hot swap version: Switch rotation is North, south and 90 degree, MAKE SURE TO CHECK SO THIS WILL NOT CAUSE KEYCAP ISSUES FOR YOU. Clip-in stabilziers is recommended for hot-swap version.**
