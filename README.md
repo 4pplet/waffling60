@@ -14,7 +14,7 @@ Tested and implemented in QMK and VIA main branches.
 - Split space
 - ISO and ANSI
 - On solder version: Switch rotation is only with LED facing south.
-- **On hot swap version: Switch rotation is North, south and 90 degree, make sure to check so this will not cause keycap issues for you.**
+- **On hot swap version: Switch rotation is North, south and 90 degree, MAKE SURE TO CHECK SO THIS WILL NOT CAUSE KEYCAP ISSUES FOR YOU. Clip-in stabilziers is recommended for hot-swap version.**
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
@@ -22,11 +22,11 @@ Tested and implemented in QMK and VIA main branches.
 ## Altium view of PCB - Solder
 ![alt text](./readme-images/waffling60-MX_Rev_B2.jpg "PCB View - Rev A")
 
-## Altium view of - Hotswap
-![alt text](./readme-images/waffling60-MXHS_Rev_B2.jpg "PCB View - Rev A")
-
 ## Altium view of - SE
 ![alt text](./readme-images/waffling60-SE_Rev_B2.jpg "PCB View - Rev A")
+
+## Altium view of - Hotswap
+![alt text](./readme-images/waffling60-MXHS_Rev_B2.jpg "PCB View - Rev A")
 
 ## Revisions:
 - Rev A1: Initial prototype based on Steezy60 Alps-version.
