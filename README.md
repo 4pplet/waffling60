@@ -18,7 +18,7 @@ Tested and implemented in QMK and VIA main branches.
 - On solder version: Switch rotation is only with LED facing south.
 - **On hot swap version: Switch rotation is North, south and 90 degree, MAKE SURE TO CHECK SO THIS WILL NOT CAUSE KEYCAP ISSUES FOR YOU. Clip-in stabilziers is recommended for hot-swap version.**
 - USB placement, outline and stabilizer-rotation on SE-version is adapted for Polaris. 
-- **Important: These PCB's (Polaris compatible version) are not officially endorsed by Ai and Ai takes no responsibility or offers any support for these if there is any issue. I have been given permission to offer these for sale.**
+- **Important: These PCB's (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to offer these for sale.**
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
