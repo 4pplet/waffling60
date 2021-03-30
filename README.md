@@ -26,7 +26,7 @@ Tested and implemented in QMK and VIA main branches.
 ## Altium view of PCB - Solder
 ![alt text](./readme-images/waffling60-MX_Rev_B2.jpg "PCB View - Rev A")
 
-## Altium view of - SE
+## Altium view of - SE ("Bolaris")
 ![alt text](./readme-images/waffling60-SE_Rev_B2.jpg "PCB View - Rev A")
 
 ## Altium view of - Hotswap
