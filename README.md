@@ -15,8 +15,9 @@ Tested and implemented in QMK and VIA main branches.
 - ISO and ANSI
 - USB horizontal placement on solder and hotswap-versions is classic GH60, same as GH60, plain60, voyager60 etc for the normal version
 - SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these. 
+- On solder versions: Switch rotation is only with LED facing south.
 
-- On solder version: Switch rotation is only with LED facing south.
+## **Disclaimer/note:**
 - **On hot swap version: Switch rotation is North, south and 90 degree, MAKE SURE TO CHECK SO THIS WILL NOT CAUSE KEYCAP ISSUES FOR YOU. Clip-in stabilziers is recommended for hot-swap version.**
 - **Important: These PCB's (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to offer these for sale.**
 
