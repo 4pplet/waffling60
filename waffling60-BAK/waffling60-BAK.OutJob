@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=waffling60-MX.OutJob
+Name=waffling60-BAK.OutJob
 Description=
 TargetOutputMedium=Schematic
 VariantName=[No Variations]
@@ -38,7 +38,7 @@ OutputMedium5_Type=Publish
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
-OutputDocumentPath1=waffling60-MX.PcbDoc
+OutputDocumentPath1=waffling60-BAK.PcbDoc
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -52,7 +52,7 @@ Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=waffling60-MX.PcbDoc
+OutputDocumentPath2=waffling60-BAK.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -66,7 +66,7 @@ Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType3=Assembly
 OutputName3=Assembly Drawings
 OutputCategory3=Assembly
-OutputDocumentPath3=waffling60-MX.PcbDoc
+OutputDocumentPath3=waffling60-BAK.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -88,7 +88,7 @@ PcbPrintPreferences3=
 OutputType4=Pick Place
 OutputName4=Generates pick and place files
 OutputCategory4=Assembly
-OutputDocumentPath4=waffling60-MX.PcbDoc
+OutputDocumentPath4=waffling60-BAK.PcbDoc
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -102,7 +102,7 @@ Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 OutputType5=PCB 3D Print
 OutputName5=Waffling60 PCB Print
 OutputCategory5=Documentation
-OutputDocumentPath5=waffling60-MX.PcbDoc
+OutputDocumentPath5=waffling60-BAK.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -132,7 +132,7 @@ Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType7=BOM_PartType
 OutputName7=Bill of Materials CSV
 OutputCategory7=Report
-OutputDocumentPath7=waffling60-MX.PcbDoc
+OutputDocumentPath7=waffling60-BAK.PcbDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -157,7 +157,7 @@ Configuration7_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MF
 OutputType8=PDF3D
 OutputName8=Waffling60 PDF3D
 OutputCategory8=Documentation
-OutputDocumentPath8=waffling60-MX.PcbDoc
+OutputDocumentPath8=waffling60-BAK.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -172,7 +172,7 @@ Configuration8_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|S
 OutputType9=ExportSTEP
 OutputName9=Export STEP
 OutputCategory9=Export
-OutputDocumentPath9=waffling60-MX.PcbDoc
+OutputDocumentPath9=waffling60-BAK.PcbDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -212,7 +212,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Stefan Sundin\Documents\GitHub\waffling60\waffling60-MX\Project Outputs for alps-cherry\2021-02-01\
+OutputFilePath3=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-BAK\Project Outputs for alps-cherry\2021-05-08\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
@@ -283,7 +283,7 @@ PDFVersion5=Default
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\Job1.PDF
 OpenOutputs2=0
-RelativeOutputPath3=C:\Users\Stefan Sundin\Documents\GitHub\waffling60\waffling60-MX\Project Outputs for alps-cherry\2021-02-01\
+RelativeOutputPath3=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-BAK\Project Outputs for alps-cherry\2021-05-08\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
