@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
 
 [Document4]
+DocumentPath=waffling60-MX.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UQQMBOXI
+
+[Document5]
 DocumentPath=waffling60-MX.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=2_waffling60-MX_matrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,23 +138,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
-
-[Document6]
-DocumentPath=waffling60-MX.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UQQMBOXI
 
 [Document7]
 DocumentPath=3_waffling60-MX_mcu.SchDoc
@@ -156,34 +156,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
-[Document8]
-DocumentPath=revisions.Txt
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MX.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - Solder
+Name=Revision
+Value=B3
 
 [Parameter2]
-Name=Revision
-Value=B2
+Name=ProjectTitle
+Value=Waffling60 - MX Solder
 
 [Configuration1]
 Name=Sources
