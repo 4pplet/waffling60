@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=waffling60-MX.OutJob
 Description=
-TargetOutputMedium=Assembly drawing
+TargetOutputMedium=Prints
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -48,7 +48,7 @@ OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -68,7 +68,7 @@ OutputName3=Assembly_All
 OutputCategory3=Assembly
 OutputDocumentPath3=waffling60-MX.PcbDoc
 OutputVariantName3=All
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=1
 OutputEnabled3_OutputMedium3=0
@@ -98,13 +98,13 @@ OutputEnabled4_OutputMedium4=0
 OutputEnabled4_OutputMedium5=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:21|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:10|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:12|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:14|Column#17=Name:Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#18=Name:MRF.Part,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#19=Name:MFGPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#20=Name:MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#21=Name:LCSC MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#22=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#23=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22
+Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=True|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:21|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:10|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:12|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:14|Column#17=Name:Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#18=Name:MRF.Part,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#19=Name:MFGPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#20=Name:MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#21=Name:LCSC MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#22=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#23=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22
 OutputType5=PCB 3D Print
-OutputName5=Waffling60 PCB Print
+OutputName5=PDF_Tray
 OutputCategory5=Documentation
 OutputDocumentPath5=waffling60-MX.PcbDoc
-OutputVariantName5=
-OutputEnabled5=0
+OutputVariantName5=Tray
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -155,11 +155,11 @@ Configuration7_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MF
 Configuration7_Name6=VisibleOrder_Flat
 Configuration7_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
 OutputType8=PDF3D
-OutputName8=Waffling60 PDF3D
+OutputName8=PDF3D_Tray
 OutputCategory8=Documentation
 OutputDocumentPath8=waffling60-MX.PcbDoc
-OutputVariantName8=
-OutputEnabled8=0
+OutputVariantName8=Tray
+OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -305,7 +305,7 @@ OutputName16=Assembly_Tray
 OutputCategory16=Assembly
 OutputDocumentPath16=waffling60-MX.PcbDoc
 OutputVariantName16=Tray
-OutputEnabled16=1
+OutputEnabled16=0
 OutputEnabled16_OutputMedium1=0
 OutputEnabled16_OutputMedium2=2
 OutputEnabled16_OutputMedium3=0
@@ -327,7 +327,7 @@ OutputName17=Assembly_Wilba
 OutputCategory17=Assembly
 OutputDocumentPath17=waffling60-MX.PcbDoc
 OutputVariantName17=Wilba
-OutputEnabled17=1
+OutputEnabled17=0
 OutputEnabled17_OutputMedium1=0
 OutputEnabled17_OutputMedium2=3
 OutputEnabled17_OutputMedium3=0
@@ -349,7 +349,7 @@ OutputName18=Assembly_Bakeneko
 OutputCategory18=Assembly
 OutputDocumentPath18=waffling60-MX.PcbDoc
 OutputVariantName18=Bakeneko
-OutputEnabled18=1
+OutputEnabled18=0
 OutputEnabled18_OutputMedium1=0
 OutputEnabled18_OutputMedium2=4
 OutputEnabled18_OutputMedium3=0
@@ -366,6 +366,96 @@ Configuration18_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 Configuration18_Name4=OutputConfigurationParameter4
 Configuration18_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 PcbPrintPreferences18=
+OutputType19=PDF3D
+OutputName19=PDF3D_Bakeneko
+OutputCategory19=Documentation
+OutputDocumentPath19=waffling60-MX.PcbDoc
+OutputVariantName19=Bakeneko
+OutputEnabled19=1
+OutputEnabled19_OutputMedium1=0
+OutputEnabled19_OutputMedium2=0
+OutputEnabled19_OutputMedium3=0
+OutputEnabled19_OutputMedium4=3
+OutputEnabled19_OutputMedium5=0
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration19_Name1=OutputConfigurationParameter1
+Configuration19_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
+OutputType20=PDF3D
+OutputName20=PDF3D_Wilba
+OutputCategory20=Documentation
+OutputDocumentPath20=waffling60-MX.PcbDoc
+OutputVariantName20=Wilba
+OutputEnabled20=1
+OutputEnabled20_OutputMedium1=0
+OutputEnabled20_OutputMedium2=0
+OutputEnabled20_OutputMedium3=0
+OutputEnabled20_OutputMedium4=4
+OutputEnabled20_OutputMedium5=0
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration20_Name1=OutputConfigurationParameter1
+Configuration20_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
+OutputType21=PDF3D
+OutputName21=PDF3D_All
+OutputCategory21=Documentation
+OutputDocumentPath21=waffling60-MX.PcbDoc
+OutputVariantName21=All
+OutputEnabled21=1
+OutputEnabled21_OutputMedium1=0
+OutputEnabled21_OutputMedium2=0
+OutputEnabled21_OutputMedium3=0
+OutputEnabled21_OutputMedium4=5
+OutputEnabled21_OutputMedium5=0
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration21_Name1=OutputConfigurationParameter1
+Configuration21_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
+OutputType22=PCB 3D Print
+OutputName22=PDF_Bakeneko
+OutputCategory22=Documentation
+OutputDocumentPath22=waffling60-MX.PcbDoc
+OutputVariantName22=Bakeneko
+OutputEnabled22=1
+OutputEnabled22_OutputMedium1=0
+OutputEnabled22_OutputMedium2=0
+OutputEnabled22_OutputMedium3=0
+OutputEnabled22_OutputMedium4=6
+OutputEnabled22_OutputMedium5=0
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration22_Name1=OutputConfigurationParameter1
+Configuration22_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=153137552|ViewY=99950512|LookAtX=398160544|LookAtY=143748896|LookAtZ=-50000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.0112723859535E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2384|ScreenHeight=1556|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
+OutputType23=PCB 3D Print
+OutputName23=PDF_Wilba
+OutputCategory23=Documentation
+OutputDocumentPath23=waffling60-MX.PcbDoc
+OutputVariantName23=Wilba
+OutputEnabled23=1
+OutputEnabled23_OutputMedium1=0
+OutputEnabled23_OutputMedium2=0
+OutputEnabled23_OutputMedium3=0
+OutputEnabled23_OutputMedium4=7
+OutputEnabled23_OutputMedium5=0
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration23_Name1=OutputConfigurationParameter1
+Configuration23_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=153137552|ViewY=99950512|LookAtX=398160544|LookAtY=143748896|LookAtZ=-50000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.0112723859535E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2384|ScreenHeight=1556|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
+OutputType24=PCB 3D Print
+OutputName24=PDF_All
+OutputCategory24=Documentation
+OutputDocumentPath24=waffling60-MX.PcbDoc
+OutputVariantName24=All
+OutputEnabled24=1
+OutputEnabled24_OutputMedium1=0
+OutputEnabled24_OutputMedium2=0
+OutputEnabled24_OutputMedium3=0
+OutputEnabled24_OutputMedium4=8
+OutputEnabled24_OutputMedium5=0
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration24_Name1=OutputConfigurationParameter1
+Configuration24_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=153137552|ViewY=99950512|LookAtX=398160544|LookAtY=143748896|LookAtZ=-50000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.0112723859535E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2384|ScreenHeight=1556|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\2021-06-29\
