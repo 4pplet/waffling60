@@ -47,7 +47,7 @@ The Project can be assembled in three different configurations:
 2. Daughter board connector in two different configurations:
 	- Bakeneko position
 	- Position for cases made for wilba PCB's
-Often, a "all" configuration is also included, this is not a one config fits all, it's intended to be used for making your own config.
+In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config.
 
 ## For ordering:
 The following files are needed for the PCB Fab:
@@ -84,5 +84,5 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Rev A2: Rotate Fn-switch (split RShift) on solder version. Rotate LShift stabilizer on both versions. To rotate left shift stabilizer on hot-swap pcb, adjacent sockets is also rotated.
 - Rev B1: Changed matrix and diode under capslock for cleaner routing and easier software implementation in QMK for LED
 - Rev B2: Moved daughter board connector to allign all projects with a similar horisontal position and a identical vertical position. Removed flex-cuts for more preictable feel in "traditional" cases.
-- Rev B3: Changed stab rotation to what's more common today. Alligns with most common projects and cases. Updated PCB outline. Moved daughter board connector for better position in bakeneko.
+- Rev B3: Changed stab rotation to what's more common today. Alligns with most common projects and cases. Updated PCB outline. Moved daughter board connector for better position in bakeneko. Added flexcuts again, but a simpler one.
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
