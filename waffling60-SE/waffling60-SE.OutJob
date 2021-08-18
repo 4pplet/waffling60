@@ -396,11 +396,11 @@ OutputFileNameMulti6=
 UseOutputNameForMulti6=1
 OutputFileNameSpecial6=
 OpenOutput6=0
-OutputFilePath7=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-SE\Project Outputs for alps-cherry\waffling60-SE.PDF
+OutputFilePath7=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-SE\Project Outputs for alps-cherry\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for alps-cherry
-OutputPathMedia7=
-OutputPathMediaValue7=
+OutputPathMedia7==CurrentDate
+OutputPathMediaValue7==CurrentDate
 OutputPathOutputer7=[Output Type]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=
@@ -451,6 +451,6 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-SE\Project Outputs for alps-cherry\waffling60-SE.PDF
+RelativeOutputPath7=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-SE\Project Outputs for alps-cherry\
 OpenOutputs7=0
 
