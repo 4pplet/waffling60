@@ -43,8 +43,8 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ## Instructions for manufacturing.
 
 The Project can be assembled in three different configurations:
-1: Traditional tray mount with USB-C connector
-2: Daughter board connector in two different configurations:
+1. Traditional tray mount with USB-C connector
+2. Daughter board connector in two different configurations:
 	- Bakeneko position
 	- Position for cases made for wilba PCB's
 Often, a "all" configuration is also included, this is not a one config fits all, it's intended to be used for making your own config.
