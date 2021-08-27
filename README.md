@@ -29,7 +29,7 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ![alt text](./readme-images/waffling60-MX_Rev_B4_Tray.jpg "PCB View - Rev A")
 
 ## Altium view of PCB - ALPS Solder
-![alt text](./readme-images/waffling60-ALPS_Rev_B4_Tray.jpg "PCB View - Rev A")
+![alt text](./readme-images/waffling60-ALPS_Rev_B5_Tray.jpg "PCB View - Rev A")
 
 ## Altium view of - SE ("Bolaris")
 ![alt text](./readme-images/waffling60-SE_Rev_B2.jpg "PCB View - Rev A")
@@ -86,3 +86,5 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Rev B2: Moved daughter board connector to allign all projects with a similar horisontal position and a identical vertical position. Removed flex-cuts for more preictable feel in "traditional" cases.
 - Rev B3: Changed stab rotation to what's more common today. Alligns with most common projects and cases. Updated PCB outline. Moved daughter board connector for better position in bakeneko. Added flexcuts again, but a simpler one.
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
+- Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
+
