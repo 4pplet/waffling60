@@ -226,12 +226,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - ALPS Solder
+Name=Revision
+Value=B5
 
 [Parameter2]
-Name=Revision
-Value=B3
+Name=ProjectTitle
+Value=Waffling60 - ALPS Solder
 
 [Configuration1]
 Name=Sources
