@@ -1,11 +1,11 @@
 # waffling60
 
 waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts and split space. The PCB is split into different versions:
-- One ALPS version.
-- One MX version (solder).
-- One dedicated Banekeko-version of the MX PCB.
-- One version made to fit ai03 Polaris.
-- One depricated hotswap version.
+- One ALPS version with different assembly options.
+- One MX version with different assembly options.
+- One dedicated version of the MX PCB to fit bakeneko/unikorn cases.
+- One dedicated version of the MX PCB made to fit ai03 Polaris.
+- Current multi-layout Hot swap version is depricated and not indended for update
 
 ## Features:
 - QMK & VIA
@@ -25,20 +25,17 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ## Layout support MX: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
 
-## Altium view of PCB - MX Solder
+## MX Solder, multiple assembly options
 ![alt text](./readme-images/waffling60-MX_Rev_B4_Tray.jpg "PCB View - Rev A")
 
-## Altium view of PCB - ALPS Solder
+## ALPS Solder, multiple assembly options
 ![alt text](./readme-images/waffling60-ALPS_Rev_B5_Tray.jpg "PCB View - Rev A")
 
-## Altium view of - SE ("Bolaris")
+## SE ("Bolaris")
 ![alt text](./readme-images/waffling60-SE_Rev_B2.jpg "PCB View - Rev A")
 
-## Altium view of - BK ("Bakeneko")
+## BK ("Bakeneko")
 ![alt text](./readme-images/waffling60-BK_Rev_B4.jpg "PCB View - Rev A")
-
-## Altium view of - Hotswap (depricated)
-![alt text](./readme-images/waffling60-MXHS_Rev_B2.jpg "PCB View - Rev A")
 
 ## Instructions for manufacturing.
 
