@@ -17,7 +17,6 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 - ISO and ANSI
 - USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc for the normal MX and ALPS-version
 - SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these. 
-- On solder versions: Switch rotation is only with LED facing south. **On hot swap version:** Switch rotation is North, south and 90 degree, MAKE SURE TO CHECK SO THIS WILL NOT CAUSE KEYCAP ISSUES FOR YOU. Clip-in stabilziers is recommended for ISO-enter stab for hot-swap version
 
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
@@ -65,7 +64,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Waffling60 Alps, a ALPS solder PCB in three configurations: Bakeneko, Tray and Wilba
 - Waffling60 SE, a PCB compatible with AI03 Polaris, same layout support as the regular MX PCB. Order in 1.2mm thickness for use with the Polaris. Same flexcut and stab rotations as the OG PCB.
 - Waffling60 BK, a dedicated bakeneko version of the regular MX PCB.
-- Waffling60 MXHS, a depricated hotswap PCB using the same layout support as the solder PCB. Note that the revision is still B2, stab rotations have been changed on the solder PCB's.
 
 ## FR4 Plates:
 - Tray mount plate: Stab rotations have been changed from revision B2 to B3, so version V1 and V2 of the plate is no longer compatible with the newest revisions.
