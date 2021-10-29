@@ -84,3 +84,4 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
 
+<a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
