@@ -5,7 +5,7 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 - One MX version with different assembly options.
 - One dedicated version of the MX PCB to fit bakeneko/unikorn cases.
 - One dedicated version of the MX PCB made to fit ai03 Polaris.
-- ISO Hot swap version with fixed layout. Revisions B3 and older is a multi layout hotswap. This was simplified in revision B3 to a fixed layout.
+- ISO Hot swap version with fixed layout. Revisions B2 and older is a multi layout hotswap. This was simplified in revision B3 to a fixed layout.
 
 ## Features:
 - QMK & VIA
@@ -45,13 +45,13 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 
 ## Instructions for manufacturing.
 
-The Project can be assembled in three different configurations:
+The regular solder versions of this project can be assembled in three different configurations:
 1. Traditional tray mount with USB-C connector
 2. Daughter board connector in two different configurations:
 	- Bakeneko position
 	- Position for cases made for wilba PCB's
 
-In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config.
+In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config. The special versions like bakeneko/polaris and hotswap have one assembly option.
 
 ## For ordering:
 The following files are needed for the PCB Fab:
