@@ -1,2 +1,0 @@
-Changes from A1:
-Rotaded ansi enter stabilizer and rotated left shift stabilizer to fit more universal plates 
