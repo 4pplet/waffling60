@@ -36,7 +36,7 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ## BK ("Bakeneko")
 ![alt text](./readme-images/waffling60-BK_Rev_B4.jpg "PCB View - Rev B")
 
-## MX Hot swap ISO
+## MX Hot Swap ISO
 ![alt text](./readme-images/waffling60HS_Rev_B3.jpg "PCB View - Rev B")
 
 
