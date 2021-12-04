@@ -3,7 +3,7 @@
 waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts and split space. The PCB is split into different versions:
 - One ALPS version with different assembly options.
 - One MX version with different assembly options.
-- One dedicated version of the MX PCB to fit bakeneko/unikorn cases.
+- One dedicated version of the MX PCB to fit bakeneko/Kei cases. For use in Kei cases, a shorter daughter board cable is recommended due to different connector placement on PCB.
 - One dedicated version of the MX PCB made to fit ai03 Polaris.
 - ISO Hot swap version with fixed layout. Revisions B2 and older is a multi layout hotswap. This was simplified in revision B3 to a fixed layout.
 
