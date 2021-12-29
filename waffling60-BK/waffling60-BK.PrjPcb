@@ -160,12 +160,12 @@ GenerateClassCluster=0
 DocumentUniqueId=QYTUGAVK
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - BK Solder
+Name=Revision
+Value=C1
 
 [Parameter2]
-Name=Revision
-Value=B2
+Name=ProjectTitle
+Value=Waffling60 - BK Solder
 
 [Configuration1]
 Name=Sources
