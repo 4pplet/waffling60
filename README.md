@@ -16,10 +16,11 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 - Split space
 - ISO and ANSI
 - USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc for the normal MX and ALPS-version
-- SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these. 
+- SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these.
+- Only rotated switches on R1 for hot-swap PCBs. 
 
 ## Planned changes for future revisions:
-- Add 3u/1u/3u split space support
+- Add 3u/1u/3u split space and 10u support
 
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
