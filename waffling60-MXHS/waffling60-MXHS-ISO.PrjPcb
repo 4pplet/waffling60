@@ -160,16 +160,20 @@ GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MXHS-ISO.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MXHS.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - Hot Swap ISO
+Name=Revision
+Value=C1
 
 [Parameter2]
-Name=Revision
-Value=B3
+Name=ProjectTitle
+Value=Waffling60 - Hot Swap ISO
 
 [Configuration1]
 Name=Sources

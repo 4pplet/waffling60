@@ -44,7 +44,7 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ![alt text](./readme-images/layout_support_HS.jpg "Layout support")
 
 ## MX Hot Swap ISO
-![alt text](./readme-images/waffling60HS_Rev_B3.jpg "PCB View - Rev B")
+![alt text](./readme-images/waffling60HS_Rev_C1.png "PCB View - Rev C")
 
 
 ## Instructions for manufacturing.
