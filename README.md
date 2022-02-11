@@ -25,6 +25,9 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
 
+## Availability:
+As an option to DIY, I'll try and keep these available for purchase here: https://4pplet.com/ For DIY, the production files are avaliable in releases.
+
 ## Layout support MX: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
 
