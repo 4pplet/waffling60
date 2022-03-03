@@ -44,7 +44,7 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 ![alt text](./readme-images/waffling60-BK_Rev_B4.jpg "PCB View - Rev B")
 
 ## Layout support MX HS: 
-![alt text](./readme-images/layout_support_HS.jpg "Layout support")
+![alt text](./readme-images/layout_support_HS.png "Layout support")
 
 ## MX Hot Swap ISO
 ![alt text](./readme-images/waffling60-MXHS_Rev_C1.png "PCB View - Rev C")
