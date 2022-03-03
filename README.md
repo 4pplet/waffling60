@@ -80,10 +80,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Waffling60 SE, a PCB compatible with AI03 Polaris, same layout support as the regular MX PCB. Order in 1.2mm thickness for use with the Polaris. Same flexcut and stab rotations as the OG PCB.
 - Waffling60 BK, a dedicated bakeneko version of the regular MX PCB.
 
-## FR4 Plates:
-- Tray mount plate: Stab rotations have been changed from revision B2 to B3, so version V1 and V2 of the plate is no longer compatible with the newest revisions.
-- Polaris plate: Compatible with OG polaris PCB and waffling60SE
-
 ## For clarity
 - Revision: When updating the PCB I bump the revision. The revision is specified with a letter and a number. For big changes, the letter is changed (usually also include code changes), for minor changes, only the number is bumped.
 - Version: Version specifies different switch types, PCB's specific to certain cases etc.
@@ -97,5 +93,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Rev B3: Changed stab rotation to what's more common today. Alligns with most common projects and cases. Updated PCB outline. Moved daughter board connector for better position in bakeneko. Added flexcuts again, but a simpler one.
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
+- Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
