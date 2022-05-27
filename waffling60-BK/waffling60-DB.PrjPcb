@@ -159,21 +159,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYTUGAVK
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-BK.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-DB.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Revision
-Value=C1
-
-[Parameter2]
 Name=ProjectTitle
 Value=Waffling60 - DB Solder
+
+[Parameter2]
+Name=Revision
+Value=C1
 
 [Configuration1]
 Name=Sources
