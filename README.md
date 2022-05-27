@@ -20,9 +20,6 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 - Only rotated switches on R1 for hot-swap PCBs. 
 - 10U support is for 10U Spacebars. Some 10U spacebars use 8U stabilizers. This is not supported on the PCB
 
-## Planned changes for future revisions:
-- Add 3u/1u/3u split space and 10u support
-
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
 
