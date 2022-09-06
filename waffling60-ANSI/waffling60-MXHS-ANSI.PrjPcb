@@ -176,13 +176,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQQMBOXI
 
-[Parameter1]
-Name=Revision
-Value=D1
+[GeneratedDocument1]
+DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MXHS-ANSI.html
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=ProjectTitle
 Value=Waffling60 - Hot Swap ANSI
+
+[Parameter2]
+Name=Revision
+Value=D1
 
 [Configuration1]
 Name=Sources
