@@ -160,12 +160,12 @@ GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - Hot Swap ISO
+Name=Revision
+Value=D1
 
 [Parameter2]
-Name=Revision
-Value=C1
+Name=ProjectTitle
+Value=Waffling60 - Hot Swap ISO
 
 [Configuration1]
 Name=Sources
