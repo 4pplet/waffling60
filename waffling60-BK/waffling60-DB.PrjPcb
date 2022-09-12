@@ -164,12 +164,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-DB.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - DB Solder
+Name=Revision
+Value=D1
 
 [Parameter2]
-Name=Revision
-Value=C1
+Name=ProjectTitle
+Value=Waffling60 - DB Solder
 
 [Configuration1]
 Name=Sources

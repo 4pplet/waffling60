@@ -216,12 +216,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - Waffling60-MX.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - MX Solder
+Name=Revision
+Value=D1
 
 [Parameter2]
-Name=Revision
-Value=C1
+Name=ProjectTitle
+Value=Waffling60 - MX Solder
 
 [Configuration1]
 Name=Sources
