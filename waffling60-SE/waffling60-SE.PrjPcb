@@ -109,6 +109,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
 
 [Document5]
+DocumentPath=2_waffling60-SE_matrix.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGCYJBCE
+
+[Document6]
 DocumentPath=3_waffling60-SE_mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
-[Document6]
+[Document7]
 DocumentPath=waffling60-SE.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
