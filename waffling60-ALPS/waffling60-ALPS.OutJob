@@ -51,7 +51,7 @@ OutputEnabled1_OutputMedium5=0
 OutputEnabled1_OutputMedium6=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -66,7 +66,7 @@ OutputEnabled2_OutputMedium5=0
 OutputEnabled2_OutputMedium6=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 OutputType3=Assembly
 OutputName3=Assembly_All
 OutputCategory3=Assembly
@@ -82,13 +82,13 @@ OutputEnabled3_OutputMedium6=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 Configuration3_Name2=OutputConfigurationParameter2
-Configuration3_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Component SideAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration3_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Component SideAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 Configuration3_Name3=OutputConfigurationParameter3
-Configuration3_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 Configuration3_Name4=OutputConfigurationParameter4
-Configuration3_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration3_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 PcbPrintPreferences3=
 OutputType4=Pick Place
 OutputName4=CPL_All
@@ -104,70 +104,69 @@ OutputEnabled4_OutputMedium5=0
 OutputEnabled4_OutputMedium6=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=True|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:21|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:10|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:12|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:14|Column#17=Name:Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#18=Name:MRF.Part,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#19=Name:MFGPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#20=Name:MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#21=Name:LCSC MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#22=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#23=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22
-OutputType5=PCB 3D Print
-OutputName5=PDF_Tray
+Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=True|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:21|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:10|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:12|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:14|Column#17=Name:Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#18=Name:MRF.Part,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#19=Name:MFGPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#20=Name:MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#21=Name:LCSC MFG,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#22=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#23=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
+OutputType5=Schematic Print
+OutputName5=Schematic Prints
 OutputCategory5=Documentation
-OutputDocumentPath5=waffling60-ALPS.PcbDoc
-OutputVariantName5=Tray
-OutputEnabled5=1
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
-OutputEnabled5_OutputMedium5=0
-OutputEnabled5_OutputMedium6=1
+OutputEnabled5_OutputMedium5=1
+OutputEnabled5_OutputMedium6=0
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=115023112|ViewY=66204260|LookAtX=398251136|LookAtY=142788800|LookAtZ=-15000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.57687347514566E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2964|ScreenHeight=1706|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
-OutputType6=Schematic Print
-OutputName6=Schematic Prints
-OutputCategory6=Documentation
-OutputDocumentPath6=
-OutputVariantName6=
+Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
+OutputType6=BOM_PartType
+OutputName6=BOM_CSV_All
+OutputCategory6=Report
+OutputDocumentPath6=waffling60-ALPS.PcbDoc
+OutputVariantName6=All
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium3=4
 OutputEnabled6_OutputMedium4=0
-OutputEnabled6_OutputMedium5=1
+OutputEnabled6_OutputMedium5=0
 OutputEnabled6_OutputMedium6=0
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
-OutputType7=BOM_PartType
-OutputName7=BOM_CSV_All
-OutputCategory7=Report
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration6_Name1=ColumnNameFormat
+Configuration6_Item1=CaptionAsName
+Configuration6_Name2=General
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration6_Name3=GroupOrder
+Configuration6_Item3=Value=True|Footprint=True|LCSC Part #=True
+Configuration6_Name4=SortOrder
+Configuration6_Item4=Quantity=Down
+Configuration6_Name5=VisibleOrder
+Configuration6_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
+Configuration6_Name6=VisibleOrder_Flat
+Configuration6_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
+OutputType7=ExportSTEP
+OutputName7=STEP_All
+OutputCategory7=Export
 OutputDocumentPath7=waffling60-ALPS.PcbDoc
 OutputVariantName7=All
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
-OutputEnabled7_OutputMedium3=4
+OutputEnabled7_OutputMedium3=5
 OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=0
 OutputEnabled7_OutputMedium6=0
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration7_Name1=ColumnNameFormat
-Configuration7_Item1=CaptionAsName
-Configuration7_Name2=General
-Configuration7_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
-Configuration7_Name3=GroupOrder
-Configuration7_Item3=Value=True|Footprint=True|LCSC Part #=True
-Configuration7_Name4=SortOrder
-Configuration7_Item4=Quantity=Down
-Configuration7_Name5=VisibleOrder
-Configuration7_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-Configuration7_Name6=VisibleOrder_Flat
-Configuration7_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 OutputType8=PDF3D
-OutputName8=PDF3D_Tray
+OutputName8=PDF3D_All
 OutputCategory8=Documentation
 OutputDocumentPath8=waffling60-ALPS.PcbDoc
-OutputVariantName8=Tray
+OutputVariantName8=All
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
@@ -178,310 +177,23 @@ OutputEnabled8_OutputMedium6=0
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
-OutputType9=ExportSTEP
-OutputName9=STEP_All
-OutputCategory9=Export
+Configuration8_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
+OutputType9=PCB 3D Print
+OutputName9=PDF_All
+OutputCategory9=Documentation
 OutputDocumentPath9=waffling60-ALPS.PcbDoc
 OutputVariantName9=All
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
-OutputEnabled9_OutputMedium3=5
+OutputEnabled9_OutputMedium3=0
 OutputEnabled9_OutputMedium4=0
 OutputEnabled9_OutputMedium5=0
-OutputEnabled9_OutputMedium6=0
+OutputEnabled9_OutputMedium6=1
 OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
-OutputType10=BOM_PartType
-OutputName10=BOM_CSV_Tray
-OutputCategory10=Report
-OutputDocumentPath10=waffling60-ALPS.PcbDoc
-OutputVariantName10=Tray
-OutputEnabled10=0
-OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=0
-OutputEnabled10_OutputMedium3=6
-OutputEnabled10_OutputMedium4=0
-OutputEnabled10_OutputMedium5=0
-OutputEnabled10_OutputMedium6=0
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration10_Name1=ColumnNameFormat
-Configuration10_Item1=CaptionAsName
-Configuration10_Name2=General
-Configuration10_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
-Configuration10_Name3=GroupOrder
-Configuration10_Item3=Value=True|Footprint=True|LCSC Part #=True
-Configuration10_Name4=SortOrder
-Configuration10_Item4=Quantity=Down
-Configuration10_Name5=VisibleOrder
-Configuration10_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-Configuration10_Name6=VisibleOrder_Flat
-Configuration10_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-OutputType11=BOM_PartType
-OutputName11=BOM_CSV_Wilba
-OutputCategory11=Report
-OutputDocumentPath11=waffling60-ALPS.PcbDoc
-OutputVariantName11=Wilba
-OutputEnabled11=0
-OutputEnabled11_OutputMedium1=0
-OutputEnabled11_OutputMedium2=0
-OutputEnabled11_OutputMedium3=7
-OutputEnabled11_OutputMedium4=0
-OutputEnabled11_OutputMedium5=0
-OutputEnabled11_OutputMedium6=0
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration11_Name1=ColumnNameFormat
-Configuration11_Item1=CaptionAsName
-Configuration11_Name2=General
-Configuration11_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
-Configuration11_Name3=GroupOrder
-Configuration11_Item3=Value=True|Footprint=True|LCSC Part #=True
-Configuration11_Name4=SortOrder
-Configuration11_Item4=Quantity=Down
-Configuration11_Name5=VisibleOrder
-Configuration11_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-Configuration11_Name6=VisibleOrder_Flat
-Configuration11_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-OutputType12=BOM_PartType
-OutputName12=BOM_CSV_Bakeneko
-OutputCategory12=Report
-OutputDocumentPath12=waffling60-ALPS.PcbDoc
-OutputVariantName12=Bakeneko
-OutputEnabled12=0
-OutputEnabled12_OutputMedium1=0
-OutputEnabled12_OutputMedium2=0
-OutputEnabled12_OutputMedium3=8
-OutputEnabled12_OutputMedium4=0
-OutputEnabled12_OutputMedium5=0
-OutputEnabled12_OutputMedium6=0
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration12_Name1=ColumnNameFormat
-Configuration12_Item1=CaptionAsName
-Configuration12_Name2=General
-Configuration12_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
-Configuration12_Name3=GroupOrder
-Configuration12_Item3=Value=True|Footprint=True|LCSC Part #=True
-Configuration12_Name4=SortOrder
-Configuration12_Item4=Quantity=Down
-Configuration12_Name5=VisibleOrder
-Configuration12_Item5=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-Configuration12_Name6=VisibleOrder_Flat
-Configuration12_Item6=Value=100|Designator=100|Footprint=100|Quantity=100|LCSC MFG=100|LCSC Part #=100
-OutputType13=ExportSTEP
-OutputName13=STEP_Tray
-OutputCategory13=Export
-OutputDocumentPath13=waffling60-ALPS.PcbDoc
-OutputVariantName13=Tray
-OutputEnabled13=0
-OutputEnabled13_OutputMedium1=0
-OutputEnabled13_OutputMedium2=0
-OutputEnabled13_OutputMedium3=9
-OutputEnabled13_OutputMedium4=0
-OutputEnabled13_OutputMedium5=0
-OutputEnabled13_OutputMedium6=0
-OutputDefault13=0
-Configuration13_Name1=OutputConfigurationParameter1
-Configuration13_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
-OutputType14=ExportSTEP
-OutputName14=STEP_Wilba
-OutputCategory14=Export
-OutputDocumentPath14=waffling60-ALPS.PcbDoc
-OutputVariantName14=Wilba
-OutputEnabled14=0
-OutputEnabled14_OutputMedium1=0
-OutputEnabled14_OutputMedium2=0
-OutputEnabled14_OutputMedium3=10
-OutputEnabled14_OutputMedium4=0
-OutputEnabled14_OutputMedium5=0
-OutputEnabled14_OutputMedium6=0
-OutputDefault14=0
-Configuration14_Name1=OutputConfigurationParameter1
-Configuration14_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
-OutputType15=ExportSTEP
-OutputName15=STEP_Bakeneko
-OutputCategory15=Export
-OutputDocumentPath15=waffling60-ALPS.PcbDoc
-OutputVariantName15=Bakeneko
-OutputEnabled15=0
-OutputEnabled15_OutputMedium1=0
-OutputEnabled15_OutputMedium2=0
-OutputEnabled15_OutputMedium3=11
-OutputEnabled15_OutputMedium4=0
-OutputEnabled15_OutputMedium5=0
-OutputEnabled15_OutputMedium6=0
-OutputDefault15=0
-Configuration15_Name1=OutputConfigurationParameter1
-Configuration15_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
-OutputType16=Assembly
-OutputName16=Assembly_Tray
-OutputCategory16=Assembly
-OutputDocumentPath16=waffling60-ALPS.PcbDoc
-OutputVariantName16=Tray
-OutputEnabled16=0
-OutputEnabled16_OutputMedium1=0
-OutputEnabled16_OutputMedium2=2
-OutputEnabled16_OutputMedium3=0
-OutputEnabled16_OutputMedium4=0
-OutputEnabled16_OutputMedium5=0
-OutputEnabled16_OutputMedium6=0
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration16_Name1=OutputConfigurationParameter1
-Configuration16_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
-Configuration16_Name2=OutputConfigurationParameter2
-Configuration16_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Component SideAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
-Configuration16_Name3=OutputConfigurationParameter3
-Configuration16_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-Configuration16_Name4=OutputConfigurationParameter4
-Configuration16_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-PcbPrintPreferences16=
-OutputType17=Assembly
-OutputName17=Assembly_Wilba
-OutputCategory17=Assembly
-OutputDocumentPath17=waffling60-ALPS.PcbDoc
-OutputVariantName17=Wilba
-OutputEnabled17=0
-OutputEnabled17_OutputMedium1=0
-OutputEnabled17_OutputMedium2=3
-OutputEnabled17_OutputMedium3=0
-OutputEnabled17_OutputMedium4=0
-OutputEnabled17_OutputMedium5=0
-OutputEnabled17_OutputMedium6=0
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration17_Name1=OutputConfigurationParameter1
-Configuration17_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
-Configuration17_Name2=OutputConfigurationParameter2
-Configuration17_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Component SideAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
-Configuration17_Name3=OutputConfigurationParameter3
-Configuration17_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-Configuration17_Name4=OutputConfigurationParameter4
-Configuration17_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-PcbPrintPreferences17=
-OutputType18=Assembly
-OutputName18=Assembly_Bakeneko
-OutputCategory18=Assembly
-OutputDocumentPath18=waffling60-ALPS.PcbDoc
-OutputVariantName18=Bakeneko
-OutputEnabled18=0
-OutputEnabled18_OutputMedium1=0
-OutputEnabled18_OutputMedium2=4
-OutputEnabled18_OutputMedium3=0
-OutputEnabled18_OutputMedium4=0
-OutputEnabled18_OutputMedium5=0
-OutputEnabled18_OutputMedium6=0
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration18_Name1=OutputConfigurationParameter1
-Configuration18_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
-Configuration18_Name2=OutputConfigurationParameter2
-Configuration18_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Component SideAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
-Configuration18_Name3=OutputConfigurationParameter3
-Configuration18_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-Configuration18_Name4=OutputConfigurationParameter4
-Configuration18_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-PcbPrintPreferences18=
-OutputType19=PDF3D
-OutputName19=PDF3D_Bakeneko
-OutputCategory19=Documentation
-OutputDocumentPath19=waffling60-ALPS.PcbDoc
-OutputVariantName19=Bakeneko
-OutputEnabled19=0
-OutputEnabled19_OutputMedium1=0
-OutputEnabled19_OutputMedium2=0
-OutputEnabled19_OutputMedium3=0
-OutputEnabled19_OutputMedium4=2
-OutputEnabled19_OutputMedium5=0
-OutputEnabled19_OutputMedium6=0
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration19_Name1=OutputConfigurationParameter1
-Configuration19_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
-OutputType20=PDF3D
-OutputName20=PDF3D_Wilba
-OutputCategory20=Documentation
-OutputDocumentPath20=waffling60-ALPS.PcbDoc
-OutputVariantName20=Wilba
-OutputEnabled20=0
-OutputEnabled20_OutputMedium1=0
-OutputEnabled20_OutputMedium2=0
-OutputEnabled20_OutputMedium3=0
-OutputEnabled20_OutputMedium4=3
-OutputEnabled20_OutputMedium5=0
-OutputEnabled20_OutputMedium6=0
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration20_Name1=OutputConfigurationParameter1
-Configuration20_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
-OutputType21=PDF3D
-OutputName21=PDF3D_All
-OutputCategory21=Documentation
-OutputDocumentPath21=waffling60-ALPS.PcbDoc
-OutputVariantName21=All
-OutputEnabled21=0
-OutputEnabled21_OutputMedium1=0
-OutputEnabled21_OutputMedium2=0
-OutputEnabled21_OutputMedium3=0
-OutputEnabled21_OutputMedium4=4
-OutputEnabled21_OutputMedium5=0
-OutputEnabled21_OutputMedium6=0
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration21_Name1=OutputConfigurationParameter1
-Configuration21_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=1|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
-OutputType22=PCB 3D Print
-OutputName22=PDF_Bakeneko
-OutputCategory22=Documentation
-OutputDocumentPath22=waffling60-ALPS.PcbDoc
-OutputVariantName22=Bakeneko
-OutputEnabled22=1
-OutputEnabled22_OutputMedium1=0
-OutputEnabled22_OutputMedium2=0
-OutputEnabled22_OutputMedium3=0
-OutputEnabled22_OutputMedium4=0
-OutputEnabled22_OutputMedium5=0
-OutputEnabled22_OutputMedium6=2
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration22_Name1=OutputConfigurationParameter1
-Configuration22_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=114987792|ViewY=66183932|LookAtX=398251136|LookAtY=142788800|LookAtZ=-15000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.57687347514566E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2964|ScreenHeight=1706|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
-OutputType23=PCB 3D Print
-OutputName23=PDF_Wilba
-OutputCategory23=Documentation
-OutputDocumentPath23=waffling60-ALPS.PcbDoc
-OutputVariantName23=Wilba
-OutputEnabled23=1
-OutputEnabled23_OutputMedium1=0
-OutputEnabled23_OutputMedium2=0
-OutputEnabled23_OutputMedium3=0
-OutputEnabled23_OutputMedium4=0
-OutputEnabled23_OutputMedium5=0
-OutputEnabled23_OutputMedium6=3
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration23_Name1=OutputConfigurationParameter1
-Configuration23_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=114987792|ViewY=66183932|LookAtX=398251136|LookAtY=142788800|LookAtZ=-15000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.57687347514566E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2964|ScreenHeight=1706|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
-OutputType24=PCB 3D Print
-OutputName24=PDF_All
-OutputCategory24=Documentation
-OutputDocumentPath24=waffling60-ALPS.PcbDoc
-OutputVariantName24=All
-OutputEnabled24=1
-OutputEnabled24_OutputMedium1=0
-OutputEnabled24_OutputMedium2=0
-OutputEnabled24_OutputMedium3=0
-OutputEnabled24_OutputMedium4=0
-OutputEnabled24_OutputMedium5=0
-OutputEnabled24_OutputMedium6=4
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.76|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration24_Name1=OutputConfigurationParameter1
-Configuration24_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=114987792|ViewY=66183932|LookAtX=398251136|LookAtY=142788800|LookAtZ=-15000|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.57687347514566E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=2964|ScreenHeight=1706|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\35018393\2CFG3D.BOTSOLDERMASKCOLOR\35018393\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.800000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
+Configuration9_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=117008816|ViewY=79084008|LookAtX=398367360|LookAtY=141314176|LookAtZ=-15001.2724609375|UpX=0|UpY=1|UpZ=0|FOV=45|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.57680424091097E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=1845|ScreenHeight=1247|ImageOutputType=2|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20NB%20Black%20Configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFGALL.SHOWCOMPONENTSNAPREFERENCE\3FALSE\2CFGALL.SHOWCOMPONENTSNAPCUSTOM\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32147483647\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\311840160\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\31907997\2CFG3D.BOTSOLDERMASKCOLOR\31907997\2CFG3D.COPPERCOLOR\312040119\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\316777215\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.820000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.872993\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.861314\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000\2CFG3D.MECHCOVERLAYERUPDATED\3FALSE|DocumentPath=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\waffling60-ALPS.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\2021-06-29\
@@ -511,7 +223,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Stefan Sundin\Documents\GitHub\waffling60\waffling60-MX\Project Outputs for alps-cherry\2021-06-29\
+OutputFilePath3=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\2022-09-19\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
@@ -578,7 +290,7 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
-OutputFilePath6=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\
+OutputFilePath6=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\2022-09-19\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for alps-cherry
 OutputPathMedia6==CurrentDate
@@ -595,7 +307,7 @@ OpenOutput6=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=Project Outputs for Free Documents\2021-06-29\
 OpenOutputs2=0
-RelativeOutputPath3=C:\Users\Stefan Sundin\Documents\GitHub\waffling60\waffling60-MX\Project Outputs for alps-cherry\2021-06-29\
+RelativeOutputPath3=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\2022-09-19\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -609,7 +321,7 @@ RelativeOutputPath4=C:\Users\Stefan\Documents\GitHub\AEKISO60\Project Outputs fo
 OpenOutputs4=0
 RelativeOutputPath5=C:\Users\Stefan\Documents\git\Steezy60\Steezy60-ALPS\Project Outputs for alps-cherry\Job1.PDF
 OpenOutputs5=0
-RelativeOutputPath6=C:\Users\Stefan\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\
+RelativeOutputPath6=C:\Users\Stefan\Documents\GitHub\waffling60\waffling60-ALPS\Project Outputs for alps-cherry\2022-09-19\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
