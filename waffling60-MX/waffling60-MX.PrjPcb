@@ -211,17 +211,13 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - Waffling60-MX.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Revision
-Value=D1
-
-[Parameter2]
 Name=ProjectTitle
 Value=Waffling60 - MX Solder
+
+[Parameter2]
+Name=Revision
+Value=D1
 
 [Configuration1]
 Name=Sources
