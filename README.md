@@ -48,11 +48,9 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 
 ## Instructions for manufacturing.
 
-The regular solder versions of this project can be assembled in three different configurations:
+The regular solder versions of this project can be assembled in two different configurations:
 1. Traditional tray mount with USB-C connector
-2. Daughter board connector in two different configurations:
-	- Bakeneko position
-	- Position for cases made for wilba PCB's
+2. Daughter board connector with no USB-C connector in bakeneko position
 
 In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config. The special versions like bakeneko/polaris and hotswap have one assembly option.
 
@@ -71,8 +69,8 @@ If you want to make a bakeneko compatible PCB, select the bakeneko BOM when orde
 Files for manufacturing can be found in releases.
 
 Releases are split into the following versions of the PCB: (note: not the same as configuration)
-- Waffling60 MX, a MX solder PCB in three configurations: Bakeneko, Tray and Wilba
-- Waffling60 Alps, a ALPS solder PCB in three configurations: Bakeneko, Tray and Wilba
+- Waffling60 MX, a MX solder PCB in three configurations: Bakeneko, Tray
+- Waffling60 Alps, a ALPS solder PCB in three configurations: Bakeneko, Tray and
 - Waffling60 SE, a PCB compatible with AI03 Polaris, same layout support as the regular MX PCB. Order in 1.2mm thickness for use with the Polaris. Same flexcut and stab rotations as the OG PCB.
 - Waffling60 BK, a dedicated bakeneko version of the regular MX PCB.
 
