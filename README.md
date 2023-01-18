@@ -10,13 +10,11 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 ## Features:
 - QMK & VIA
 - USB-C
-- ATmega32U2 in QFN and QFP
-- RGB-led under/close to capslock for non-hotswap versions
+- RGB-led under to capslock-switch for non-hotswap versions. A transparent switch is needed to see the light from the LED through the switch.
 - Cherry PCB-stab support
 - Split space
-- USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc for the normal MX and ALPS-version
+- USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc for the tray mount versions.
 - SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these.
-- 10U support is for 10U Spacebars.
 
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
@@ -88,5 +86,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
 - Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
+- Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
