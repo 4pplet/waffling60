@@ -1,7 +1,0 @@
-["¬\n`","!\n1","\"\n2","£\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace"],
-[{w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{x:0.25,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"Enter"],
-[{w:1.75},"Caps Lock","A","S","D","F","G","H","J","K","L",":\n;","@\n'","~\n#"],
-[{w:1.25},"Shift","|\n\\","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift","Fn"],
-[{w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U","Win\n\n\n\n\n\n\n\n\n1U",{w:1.5},"Alt\n\n\n\n\n\n\n\n\n1.5U",{c:"#7dd190",a:7,w:7},"7U",{c:"#cccccc",a:4,w:1.5},"AltGr\n\n\n\n\n\n\n\n\n1.5U","Win\n\n\n\n\n\n\n\n\n1U",{w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U"],
-[{y:0.5,w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U","Win\n\n\n\n\n\n\n\n\n1U",{w:1.5},"Alt\n\n\n\n\n\n\n\n\n1.5U",{c:"#7dd190",a:7,w:3},"3U","1U",{w:3},"3U",{c:"#cccccc",a:4,w:1.5},"AltGr\n\n\n\n\n\n\n\n\n1.5U","Win\n\n\n\n\n\n\n\n\n1U",{w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U"],
-[{w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U","Win\n\n\n\n\n\n\n\n\n1U",{c:"#7dd190",a:7,w:10},"10U",{c:"#cccccc",a:4},"Win\n\n\n\n\n\n\n\n\n1U",{w:1.5},"Ctrl\n\n\n\n\n\n\n\n\n1.5U"]
