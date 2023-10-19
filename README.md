@@ -95,6 +95,7 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 
 ## Availability:
 Example of tested encoders:
+
 ![alt text](./readme-images/encoder.jpg "Aliexpress Encoder")
 
 Link: https://www.aliexpress.com/item/1005001265188249.html
