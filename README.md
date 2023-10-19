@@ -61,7 +61,7 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 
 ## Instructions for manufacturing.
 
-All PCBs except for the SE-version ("Bolaris") can be assembled for use with a bakeneko-style case. Simply remove the USB-port from the BOM or do de-select it/tell the manu not to assemble it.
+All PCBs except for the SE-version ("Bolaris") can be assembled for use with a bakeneko-style case. Simply remove the USB-port from the BOM or de-select it/tell the manu not to assemble it. The process will vary depending on what manufacturer is used.
 
 ## For ordering:
 The following files are needed for the PCB Fab:
