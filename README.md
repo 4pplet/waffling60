@@ -93,7 +93,10 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
 - Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter. Reset button removed to reduce risk of resetting the board when bottoming out or when using a lot of foam.
 
-## Availability:
+
+## Encoders:
+The footprint for encoders is a fairly common one. It supports two versions of bottom pins. The one below is an example. Similar looking SMD encoders (pin placement and bottom pins) will likely fit.
+
 Example of tested encoders:
 
 ![alt text](./readme-images/encoder.jpg "Aliexpress Encoder")
