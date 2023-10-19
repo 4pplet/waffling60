@@ -91,7 +91,7 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
 - Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
 - Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
-- Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter.
+- Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter. Reset button removed to reduce risk of resetting the board when bottoming out or when using a lot of foam.
 
 ## Availability:
 Example of tested encoders:
