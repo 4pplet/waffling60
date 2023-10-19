@@ -69,7 +69,7 @@ The following files are needed for the PCB Fab:
 - Gerber (contains PCB drawings and drill files)
 
 ## Releases
-Files for manufacturing can be found in releases.
+Files for manufacturing can be found in releases: https://github.com/4pplet/waffling60/releases
 
 ## Revision naming scheme
 - Revision: When updating the PCB I bump the revision. The revision is specified with a letter and a number. For big changes, the letter is changed (usually also include code changes), for minor changes, only the number is bumped.
