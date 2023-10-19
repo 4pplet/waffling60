@@ -20,6 +20,7 @@ Note: Revision E is still being added to QMK and VIA. At the moment, use revisio
 - Split space
 - USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc for the tray mount versions.
 - SE-version is adapted for Polaris (stab-rotations, outline and USB-placement), make sure to order 1.2 mm thickness when manufacturing these.
+- Rotary encoder support on top row, furthest to the right. Split backspace position. Only specific SMD encoders fit. Example further down.
 
 ## **Disclaimer/note:**
 - **Important:** SE version of waffling60 (Polaris compatible version) are not officially endorsed by ai03 and ai03 takes no responsibility or offers any support for these if there is any issue. I have been given permission to open source and offer these for sale.**
@@ -86,5 +87,11 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
 - Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
 - Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support.
+
+## Availability:
+Example of tested encoders:
+![alt text](./readme-images/encoder.jpg "Aliexpress Encoder")
+
+Link: https://www.aliexpress.com/item/1005001265188249.html
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
