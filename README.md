@@ -58,9 +58,14 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 ## MX Hot Swap ANSI
 ![alt text](./readme-images/waffling60-MXHS-ANSI_Rev_E1.jpg "PCB View - Rev E")
 
+## Deviations on NMB version due to switch footprint/constraints:
+- Different x-axis JST position, further from the PCB center.
+- No Rotary encoder on PCB
+- No 6U support
+- Different encoder header position for off PCB encoder
+- Different JTAG tagconnect position
 
 ## Instructions for manufacturing.
-
 All PCBs except for the SE-version ("Bolaris") can be assembled for use with a bakeneko-style case. Simply remove the USB-port from the BOM or de-select it/tell the manu not to assemble it. The process will vary depending on what manufacturer is used.
 
 ## For ordering:
@@ -86,7 +91,7 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
 - Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
 - Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
-- Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support.
+- Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter.
 
 ## Availability:
 Example of tested encoders:
