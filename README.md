@@ -9,7 +9,7 @@ waffling60 is a multilayout 60% PCB with support for common ANSI and ISO layouts
 - A dedicated version of the MX solder PCB to fit bakeneko/Kei cases. For use in Kei cases, a shorter or more flexible daughter board cable is recommended due to a slight different connector placement on PCB.
 - A dedicated version of the MX solder PCB to fit ai03 Polaris V1.
 
-Note: Revision E is still being added to QMK and VIA. At the moment, use revision D files for manufacturing.
+Note: Revision E is still being verified and added to QMK and VIA. At the moment, use revision D files for manufacturing. When tested and added, I'll change the releases from pre-release to release.
 
 ## Features:
 - QMK & VIA
