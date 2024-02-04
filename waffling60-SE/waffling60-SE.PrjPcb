@@ -181,12 +181,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - Waffling60-SE.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - SE
+Name=Revision
+Value=E2
 
 [Parameter2]
-Name=Revision
-Value=D1
+Name=ProjectTitle
+Value=Waffling60 - SE
 
 [Configuration1]
 Name=Sources
