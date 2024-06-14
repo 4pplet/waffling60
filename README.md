@@ -90,9 +90,10 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev B4: Changes to PCB outline, added support for bakeneko V3 and possibly KEI
 - Rev B5 - Alps: Adding symetrical split space support using AEK-keycaps and adding RGB led below capslock switch for use with transparent switches (matias)
 - Rev C1: Revision adds 3u+1U+3U Split space and 10U space support.
-- Rev D1: Moves to APM32 MCU, minor changes to routing and USB shielding.
+- Rev D: Moves to APM32 MCU, minor changes to routing and USB shielding.
 - Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter. Reset button removed to reduce risk of resetting the board when bottoming out or when using a lot of foam.
-- Rev E2: Fixes missing underglow resistor on NMB PCB. Fixes incorrect 6u support on solder PCBs.
+- Rev E2: Fixes missing underglow resistor on NMB PCB. Fixes incorrect 6u support on solder PCBs (all versions with 6u support).
+- Rev E3 on Waffling60SE: Adds a missing 5-pin switch hole on bottom row. 
 
 
 ## Encoders:
