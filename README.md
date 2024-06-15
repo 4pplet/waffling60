@@ -93,7 +93,8 @@ Files for manufacturing can be found in releases: https://github.com/4pplet/waff
 - Rev D: Moves to APM32 MCU, minor changes to routing and USB shielding.
 - Rev E1: Adds NMB version. Adds underglow, rotary encoder support and 6u space support. Changed the switch rotation on MX ISO-enter. Reset button removed to reduce risk of resetting the board when bottoming out or when using a lot of foam.
 - Rev E2: Fixes missing underglow resistor on NMB PCB. Fixes incorrect 6u support on solder PCBs (all versions with 6u support).
-- Rev E3 on Waffling60SE: Adds a missing 5-pin switch hole on bottom row. 
+- Rev E3 on Waffling60SE: Adds a missing 5-pin switch hole on bottom row.
+- Rev E3 on Waffling60DB: Adjusting UDB connector to align with the rest of the project. It had a slight offset.
 
 
 ## Encoders:
