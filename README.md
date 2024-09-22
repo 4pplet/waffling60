@@ -58,7 +58,7 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 ## MX Hot Swap ANSI
 ![alt text](./readme-images/waffling60-MXHS-ANSI_Rev_E1.jpg "PCB View - Rev E")
 
-## Deviations on NMB version due to switch footprint/constraints:
+## Deviations on NMB version due to switch/footprint constraints:
 - Different x-axis JST position, further from the PCB center.
 - No Rotary encoder on PCB
 - No 6U support
