@@ -2,10 +2,11 @@
 [{x:3,c:"#cccccc",a:4,w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{c:"#e09bd5",w:1.5},"|\n\\",{x:2.25,a:5,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"ISO"],
 [{c:"#f0af4f",a:4,w:1.25,w2:1.75,l:true},"Caps Lock",{x:1.75,w:1.75},"Caps Lock",{c:"#cccccc"},"A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{c:"#e09bd5",w:2.25},"Enter",{x:1.25},"ISO"],
 [{c:"#dbde54",w:1.25},"Shift\n\n\n\n\n\n\n1.25u","ISO",{x:0.75,w:2.25},"Shift",{c:"#cccccc"},"Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{c:"#dbde54",w:2.75},"Shift",{x:0.75,w:1.75},"Shift\n\n\n\n\n\n\n1.75u","Fn"],
-[{x:3,c:"#7dd190",w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
-[{y:0.75,x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:7},"\nTSANGAN / WKL",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
-[{x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:6},"Supported on Revision E and newer\nNot supported on NMB-version",{a:4,w:1.5},"Alt","Win","Menu",{w:1.5},"Ctrl"],
-[{x:3,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:2.25},"",{w:1.25},"",{w:2.75},"",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
-[{x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:7,w:3},"3U split is supported on revision C and newer","",{w:3},"",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
-[{x:3,c:"#f4c9bd",w:1.5},"Ctrl",{w:1.25},"Alt",{w:1.5},"Cmd",{a:5,w:6.5},"\nAEK, Only supported on ALPS versions of the PCB!",{a:4,w:1.5},"Cmd",{w:1.25},"Alt",{w:1.5},"Ctrl"],
-[{x:3,w:1.5},"Ctrl",{w:1.25},"Alt",{w:1.5},"Cmd",{a:5,w:2.75},"AEK, Only supported on ALPS versions of the PCB!",{a:4},"Fn",{a:5,w:2.75},"AEK, Only supported on ALPS versions of the PCB!",{a:4,w:1.5},"Cmd",{w:1.25},"Alt",{w:1.5},"Ctrl"]
+[{x:3,c:"#7dd190",w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:5,w:6.25},"6.25U",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
+[{y:0.75,x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:7},"7U\nTSANGAN / WKL",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
+[{x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:6},"6U\nNot supported on NMB-version\n\n\n\n\nSupported on Revision E and newer",{a:4,w:1.5},"Alt","Win","Menu",{w:1.5},"Ctrl"],
+[{x:3,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:5,w:2.25},"2.25U",{w:1.25},"1.25U",{w:2.75},"2.75U",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
+[{x:3,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:7,w:3},"3U split is supported on revision C and newer",{a:5},"1U",{w:3},"3U",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
+[{x:3,w:1.5},"Ctrl","Win",{a:5,w:10},"10U\nSupported on Revision E and newer",{a:4},"Menu",{w:1.5},"Ctrl"],
+[{x:3,c:"#f4c9bd",w:1.5},"Ctrl",{w:1.25},"Alt",{w:1.5},"Cmd",{a:5,w:6.5},"6.5U\nAEK, Only supported on ALPS versions of the PCB!",{a:4,w:1.5},"Cmd",{w:1.25},"Alt",{w:1.5},"Ctrl"],
+[{x:3,w:1.5},"Ctrl",{w:1.25},"Alt",{w:1.5},"Cmd",{a:5,w:2.75},"AEK, Only supported on ALPS versions of the PCB!","1U",{w:2.75},"2.75U",{a:4,w:1.5},"Cmd",{w:1.25},"Alt",{w:1.5},"Ctrl"]
