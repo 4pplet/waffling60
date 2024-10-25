@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=waffling60-MXHS-ISO.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\..\Altium-Keeb-lib\Keebs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYTUGAVK
 
-[Document2]
+[Document3]
 DocumentPath=..\..\Altium-Keeb-lib\Keebs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJRQXWGT
 
-[Document3]
+[Document4]
 DocumentPath=3_waffling60-MXHS-ISO_mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
-[Document4]
+[Document5]
 DocumentPath=waffling60-MXHS-ISO.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,23 +124,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQQMBOXI
-
-[Document5]
-DocumentPath=waffling60-MXHS.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Document6]
 DocumentPath=4_waffling60-MXHS-ISO_periferals.SchDoc
@@ -175,6 +175,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for alps-cherry\Design Rule Check - waffling60-MXHS-ISO.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectTitle
